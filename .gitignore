@@ -1,0 +1,14 @@
+.idea
+.cue
+.savedStates
+.bsp
+
+common
+project
+target
+test
+
+.bookmark
+.courseName
+lightbend.sbt
+README.course.md

@@ -1,6 +1,6 @@
 # Akka Streams Playground
 
-This repository contains exercises resolved by me during the course, it is ignoring all copyrighted content from the course, so it is not runnable.This repository contains exercises resolved by me during the course, it ignores all copyrighted content from the course, and is not runnable.
+This repository contains exercises resolved by me during the course, it ignores all copyrighted content from the course, and is not runnable.
 
 ## Fusion Run comparison
 
